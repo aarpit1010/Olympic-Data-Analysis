@@ -1,2 +1,2 @@
 # Olympic-Data-Analysis
-A simple machine learning project based on python numpy, pandas and matplotlib
+A simple data science project based on python data wrangling with numpy, pandas and matplotlib
