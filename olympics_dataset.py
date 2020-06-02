@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-data=pd.read_csv(medals_table.csv)
+data=pd.read_csv('medals_table.csv')
 data.rename(columns={'Total':'Total_Medals'}, inplace = True)
 data.head(10)
 
